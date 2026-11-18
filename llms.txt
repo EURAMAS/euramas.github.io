@@ -1,0 +1,10 @@
+# EURAMAS
+
+> The European Association for Multi-Agent Systems (EURAMAS) is a nonprofit founded in 2009 to promote European science and technology in multi-agent systems.
+
+## Website
+
+- [Home](https://euramas.github.io/): Association overview and event announcements.
+- [Board members](https://euramas.github.io/board-members.html): Officers, directors, and advisory board.
+- [Objectives and activities](https://euramas.github.io/objectives-and-activities.html): Mission, designated events, organizer guidelines, articles, and bylaws.
+- [Past events](https://euramas.github.io/past-events.html): Archive of EUMAS conferences and workshops and EASSS summer schools.
